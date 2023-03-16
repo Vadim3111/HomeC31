@@ -15,5 +15,5 @@ if(len == 5)
 }
 else
 {
-    console.WriteLine($"ОШИБКА: {number} - не является пятизначным");
+    Console.WriteLine($"ОШИБКА: {number} - не является пятизначным");
 }
