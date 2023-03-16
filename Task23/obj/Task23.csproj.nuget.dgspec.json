@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\admin\\Desktop\\IT\\Дз\\3. Знакомство с С#\\ДЗ\\Дз3\\Task23\\Task23.csproj": {}
+    "C:\\Users\\admin\\Desktop\\IT\\Дз\\3. Знакомство с С#\\ДЗ\\Дз3\\HomeC31\\Task23\\Task23.csproj": {}
   },
   "projects": {
-    "C:\\Users\\admin\\Desktop\\IT\\Дз\\3. Знакомство с С#\\ДЗ\\Дз3\\Task23\\Task23.csproj": {
+    "C:\\Users\\admin\\Desktop\\IT\\Дз\\3. Знакомство с С#\\ДЗ\\Дз3\\HomeC31\\Task23\\Task23.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\admin\\Desktop\\IT\\Дз\\3. Знакомство с С#\\ДЗ\\Дз3\\Task23\\Task23.csproj",
+        "projectUniqueName": "C:\\Users\\admin\\Desktop\\IT\\Дз\\3. Знакомство с С#\\ДЗ\\Дз3\\HomeC31\\Task23\\Task23.csproj",
         "projectName": "Task23",
-        "projectPath": "C:\\Users\\admin\\Desktop\\IT\\Дз\\3. Знакомство с С#\\ДЗ\\Дз3\\Task23\\Task23.csproj",
+        "projectPath": "C:\\Users\\admin\\Desktop\\IT\\Дз\\3. Знакомство с С#\\ДЗ\\Дз3\\HomeC31\\Task23\\Task23.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\admin\\Desktop\\IT\\Дз\\3. Знакомство с С#\\ДЗ\\Дз3\\Task23\\obj\\",
+        "outputPath": "C:\\Users\\admin\\Desktop\\IT\\Дз\\3. Знакомство с С#\\ДЗ\\Дз3\\HomeC31\\Task23\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config"

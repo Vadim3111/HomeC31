@@ -11,5 +11,5 @@ Console.Write("Введите координату X(3): ");
 double x3 = Convert.ToDouble(Console.ReadLine());
 Console.Write("Введите координату Y(3): ");
 double y3 = Convert.ToDouble(Console.ReadLine());
-double s = Math.Sqrt(Math.Pow(x1 - x2 - x3, 2) + Math.Pow(y2 - y1 - x3, 2));
+double s = Math.Sqrt(Math.Pow(x1 - x2 - x3, 2) + Math.Pow(y1 - y2 - x3, 2));
 Console.WriteLine($"Расстояние между двумя точками равно {Math.Round(s, 2)}");
